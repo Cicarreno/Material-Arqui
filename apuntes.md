@@ -1,3 +1,8 @@
+##Apuntes de C
+
+Se escribiran pequeños apuntes de C
+
+Como escribir un print:
 ```c
 #include <stdio.h>
 int main(int argc, char const *argv[])
@@ -8,4 +13,7 @@ int main(int argc, char const *argv[])
 	return 0;
 }
 ```
+
+
+
 
